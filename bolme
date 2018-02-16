@@ -1,0 +1,10 @@
+melis seğmen tarafından bölme modülü eklendi
+
+
+
+ void bolme(int sayi1,int sayi2)
+{
+	int bolme;
+	bolum=sayi1/sayi2;
+	printf("%d",bolum);
+}
