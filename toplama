@@ -1,0 +1,8 @@
+pinar tamol tarafından toplama işlemi eklendi
+
+void toplama(int sayi1,int sayi2)
+{
+	int toplama;
+	toplama=sayi1+sayi2;
+	printf("%d",toplama);
+}
